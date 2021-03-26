@@ -694,3 +694,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.26-19.35.11:193][373]LogSavePackage: Moving '../../../../../Documents/GitHub/6-SearchAndRescue/SearchAndRescue/Saved/Level144D79363488FE59D237C8AB11B7B1C68.tmp' to '../../../../../Documents/GitHub/6-SearchAndRescue/SearchAndRescue/Content/Levels/Level1.umap'
 [2021.03.26-19.35.11:213][373]AssetCheck: New page: Asset Save: Level1
 [2021.03.26-19.35.11:213][373]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2021.03.26-19.37.38:359][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Documents/GitHub/6-SearchAndRescue/SearchAndRescue/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.26-19.37.38:371][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.26-19.37.38:378][415]LogSavePackage: Moving '../../../../../Documents/GitHub/6-SearchAndRescue/SearchAndRescue/Saved/Level17B9170AC43B1B16E897989A010B60E1C.tmp' to '../../../../../Documents/GitHub/6-SearchAndRescue/SearchAndRescue/Content/Levels/Level1.umap'
+[2021.03.26-19.37.38:418][415]AssetCheck: New page: Asset Save: Level1
+[2021.03.26-19.37.38:418][415]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
